@@ -22,8 +22,6 @@ High demand for reskilling
 Interactive filters (Year, Country, Industry)
 KPI cards (Automation Risk, AI Adoption, Salary Change)
 Visuals: Bar charts, Scatter plots, Map
-📷 Dashboard Preview
-(Add your screenshot here)
 📂 Files Included
 Power BI Dashboard (.pbix)
 Dataset (Excel)
