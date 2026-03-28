@@ -36,6 +36,10 @@ KPI cards (Automation Risk, AI Adoption, Salary Change)
 Visuals: Bar charts, Scatter plots, Map
 
 
+<img width="1366" height="751" alt="image" src="https://github.com/user-attachments/assets/f6f20d61-2372-4586-8573-5cf89f1a2573" />
+
+
+
 📂 Files Included
 Power BI Dashboard (.pbix)
 Dataset (Excel)
